@@ -1,0 +1,2185 @@
+{
+  "total_count": 1635,
+  "offset": 0,
+  "query": "hvac",
+  "category_id": null,
+  "facets": {
+    "categories": [
+      {
+        "id": 5447,
+        "name": "Plumbing, Heating, \u0026 Cooling",
+        "ancestry": null,
+        "count": 1351
+      },
+      {
+        "id": 5651,
+        "name": "Industrial filtering \u0026 purification",
+        "ancestry": "5447",
+        "count": 694
+      },
+      { "id": 7298, "name": "Filters", "ancestry": "5447/5651", "count": 692 },
+      {
+        "id": 5648,
+        "name": "Heating, ventilation \u0026 air circulation",
+        "ancestry": "5447",
+        "count": 521
+      },
+      {
+        "id": 7284,
+        "name": "Heating equipment \u0026 parts \u0026 access.",
+        "ancestry": "5447/5648",
+        "count": 308
+      },
+      {
+        "id": 5442,
+        "name": "Hardware \u0026 Tools",
+        "ancestry": null,
+        "count": 127
+      },
+      {
+        "id": 5649,
+        "name": "Fluid \u0026 gas distribution",
+        "ancestry": "5447",
+        "count": 113
+      },
+      { "id": 7290, "name": "Ducts", "ancestry": "5447/5649", "count": 95 },
+      {
+        "id": 7282,
+        "name": "Air circulation \u0026 parts \u0026 accessories",
+        "ancestry": "5447/5648",
+        "count": 83
+      },
+      { "id": 5611, "name": "Hardware", "ancestry": "5442", "count": 73 },
+      { "id": 7093, "name": "Screws", "ancestry": "5442/5611", "count": 72 },
+      {
+        "id": 7283,
+        "name": "Cooling equipment \u0026 parts \u0026 access.",
+        "ancestry": "5447/5648",
+        "count": 71
+      },
+      {
+        "id": 7281,
+        "name": "Ventilation",
+        "ancestry": "5447/5648",
+        "count": 57
+      },
+      {
+        "id": 5467,
+        "name": "Flooring \u0026 Ceiling",
+        "ancestry": null,
+        "count": 28
+      },
+      {
+        "id": 5812,
+        "name": "Specialized trade construction \u0026 maintenance",
+        "ancestry": "5467",
+        "count": 28
+      },
+      {
+        "id": 9293,
+        "name": "HVAC construction \u0026 maintenance",
+        "ancestry": "5467/5812",
+        "count": 26
+      },
+      {
+        "id": 5439,
+        "name": "Material Handling \u0026 Storage",
+        "ancestry": null,
+        "count": 23
+      },
+      {
+        "id": 5571,
+        "name": "Industrial refrigeration",
+        "ancestry": "5439",
+        "count": 22
+      },
+      {
+        "id": 6760,
+        "name": "Industrial refrigerators",
+        "ancestry": "5439/5571",
+        "count": 22
+      },
+      { "id": 5446, "name": "Electrical", "ancestry": null, "count": 21 },
+      { "id": 5588, "name": "Hand tools", "ancestry": "5442", "count": 21 },
+      {
+        "id": 5444,
+        "name": "Paint \u0026 Sundries",
+        "ancestry": null,
+        "count": 17
+      },
+      {
+        "id": 5438,
+        "name": "Metal Cutting, Welding, \u0026 Soldering Equip.",
+        "ancestry": "5442",
+        "count": 16
+      },
+      {
+        "id": 5443,
+        "name": "Building Materials",
+        "ancestry": null,
+        "count": 16
+      },
+      {
+        "id": 5448,
+        "name": "Measuring, Observing \u0026 Testing Equip.",
+        "ancestry": "5442",
+        "count": 15
+      },
+      {
+        "id": 5655,
+        "name": "Measuring, observing, \u0026 testing",
+        "ancestry": "5442/5448",
+        "count": 15
+      },
+      {
+        "id": 9731,
+        "name": "Lighting \u0026 Fans",
+        "ancestry": null,
+        "count": 15
+      },
+      {
+        "id": 5564,
+        "name": "Welding, soldering \u0026 brazing equip.",
+        "ancestry": "5442/5438",
+        "count": 14
+      },
+      {
+        "id": 5645,
+        "name": "Lighting fixtures \u0026 accessories",
+        "ancestry": "9731",
+        "count": 14
+      },
+      {
+        "id": 5615,
+        "name": "Adhesives \u0026 sealants",
+        "ancestry": "5444",
+        "count": 13
+      },
+      {
+        "id": 6724,
+        "name": "Welding, soldering \u0026 brazing supplies",
+        "ancestry": "5442/5438/5564",
+        "count": 12
+      },
+      {
+        "id": 7253,
+        "name": "Interior lighting fixtures",
+        "ancestry": "9731/5645",
+        "count": 12
+      },
+      {
+        "id": 5652,
+        "name": "Pipes \u0026 pipe fittings",
+        "ancestry": "5447",
+        "count": 11
+      },
+      {
+        "id": 7420,
+        "name": "Electrical measuring \u0026 testing",
+        "ancestry": "5442/5448/5655",
+        "count": 11
+      },
+      { "id": 7288, "name": "Valves", "ancestry": "5447/5649", "count": 9 },
+      {
+        "id": 7408,
+        "name": "Thermostats \u0026 thermometers",
+        "ancestry": "5447",
+        "count": 9
+      },
+      {
+        "id": 5585,
+        "name": "Electrical wire, cable \u0026 harness",
+        "ancestry": "5446",
+        "count": 8
+      },
+      { "id": 5596, "name": "Insulation", "ancestry": "5443", "count": 8 },
+      {
+        "id": 6926,
+        "name": "Thermal insulation",
+        "ancestry": "5443/5596",
+        "count": 7
+      },
+      { "id": 7122, "name": "Tape", "ancestry": "5444/5615", "count": 7 },
+      {
+        "id": 5453,
+        "name": "Locks, Safety, \u0026 Security",
+        "ancestry": null,
+        "count": 6
+      },
+      {
+        "id": 6881,
+        "name": "Power tools",
+        "ancestry": "5442/5588",
+        "count": 6
+      },
+      {
+        "id": 7289,
+        "name": "Hardware \u0026 fittings",
+        "ancestry": "5447/5649",
+        "count": 6
+      },
+      {
+        "id": 5454,
+        "name": "Cleaning \u0026 Janitorial",
+        "ancestry": null,
+        "count": 5
+      },
+      {
+        "id": 7266,
+        "name": "Distribution \u0026 control centers",
+        "ancestry": "5446",
+        "count": 5
+      },
+      {
+        "id": 5450,
+        "name": "Technology, Ink \u0026 Toner",
+        "ancestry": null,
+        "count": 4
+      },
+      {
+        "id": 5598,
+        "name": "Interior finishing materials",
+        "ancestry": "5443",
+        "count": 4
+      },
+      {
+        "id": 5616,
+        "name": "Paints, primers \u0026 finishes",
+        "ancestry": "5444",
+        "count": 4
+      },
+      {
+        "id": 5705,
+        "name": "Cleaning supplies",
+        "ancestry": "5454",
+        "count": 4
+      },
+      {
+        "id": 6852,
+        "name": "Electrical wire",
+        "ancestry": "5446/5585",
+        "count": 4
+      },
+      {
+        "id": 6853,
+        "name": "Electrical cable \u0026 accessories",
+        "ancestry": "5446/5585",
+        "count": 4
+      },
+      {
+        "id": 6869,
+        "name": "Cutting \u0026 crimping \u0026 punching tools",
+        "ancestry": "5442/5588",
+        "count": 4
+      },
+      {
+        "id": 6940,
+        "name": "Molding \u0026 millwork",
+        "ancestry": "5443/5598",
+        "count": 4
+      },
+      {
+        "id": 9746,
+        "name": "Manufactured Housing",
+        "ancestry": null,
+        "count": 4
+      },
+      { "id": 5459, "name": "Appliances", "ancestry": null, "count": 3 },
+      { "id": 5658, "name": "Hand protection", "ancestry": "5453", "count": 3 },
+      {
+        "id": 6871,
+        "name": "Wrenches \u0026 drivers",
+        "ancestry": "5442/5588",
+        "count": 3
+      },
+      {
+        "id": 7265,
+        "name": "Power conditioning equipment",
+        "ancestry": "5446",
+        "count": 3
+      },
+      {
+        "id": 7315,
+        "name": "Pipe elbows",
+        "ancestry": "5447/5652",
+        "count": 3
+      },
+      {
+        "id": 7473,
+        "name": "Medical gloves \u0026 accessories",
+        "ancestry": "5453/5658",
+        "count": 3
+      },
+      {
+        "id": 7864,
+        "name": "Cleaning \u0026 disinfecting solutions",
+        "ancestry": "5454/5705",
+        "count": 3
+      },
+      {
+        "id": 9726,
+        "name": "Interior Finishings",
+        "ancestry": null,
+        "count": 3
+      },
+      {
+        "id": 5452,
+        "name": "Printing, Photo \u0026 Audio/Visual",
+        "ancestry": "5450",
+        "count": 2
+      },
+      {
+        "id": 5592,
+        "name": "Structural components \u0026 basic shapes",
+        "ancestry": "5443",
+        "count": 2
+      },
+      {
+        "id": 5597,
+        "name": "Exterior finishing materials",
+        "ancestry": "5443/5601",
+        "count": 2
+      },
+      {
+        "id": 5600,
+        "name": "Plumbing fixtures",
+        "ancestry": "9732",
+        "count": 2
+      },
+      {
+        "id": 5601,
+        "name": "Construction \u0026 maintenance equipment",
+        "ancestry": "5443",
+        "count": 2
+      },
+      {
+        "id": 5653,
+        "name": "Tubes tubing \u0026 tube fittings",
+        "ancestry": "5447",
+        "count": 2
+      },
+      {
+        "id": 5688,
+        "name": "Photographic, filming \u0026 video",
+        "ancestry": "5450/5452",
+        "count": 2
+      },
+      {
+        "id": 5698,
+        "name": "Security surveillance \u0026 detection",
+        "ancestry": "5453",
+        "count": 2
+      },
+      {
+        "id": 6723,
+        "name": "Welding, soldering \u0026 brazing accessories",
+        "ancestry": "5442/5438/5564",
+        "count": 2
+      },
+      {
+        "id": 6870,
+        "name": "Forming tools",
+        "ancestry": "5442/5588",
+        "count": 2
+      },
+      {
+        "id": 6872,
+        "name": "Measuring \u0026 layout tools",
+        "ancestry": "5442/5588",
+        "count": 2
+      },
+      {
+        "id": 6875,
+        "name": "Holding \u0026 clamping tools",
+        "ancestry": "5442/5588",
+        "count": 2
+      },
+      { "id": 6897, "name": "Angles", "ancestry": "5443/5592", "count": 2 },
+      {
+        "id": 7124,
+        "name": "Paints \u0026 primers",
+        "ancestry": "5444/5616",
+        "count": 2
+      },
+      {
+        "id": 7128,
+        "name": "Paint applicators \u0026 painting accessories",
+        "ancestry": "5444/5616",
+        "count": 2
+      },
+      {
+        "id": 7269,
+        "name": "Controls \u0026 accessories ",
+        "ancestry": "5446",
+        "count": 2
+      },
+      { "id": 7286, "name": "Boilers", "ancestry": "5447/5648", "count": 2 },
+      { "id": 7291, "name": "Hoses", "ancestry": "5447/5649", "count": 2 },
+      {
+        "id": 7299,
+        "name": "Purification",
+        "ancestry": "5447/5651",
+        "count": 2
+      },
+      {
+        "id": 7302,
+        "name": "Commercial pipe \u0026 piping",
+        "ancestry": "5447/5652",
+        "count": 2
+      },
+      {
+        "id": 7303,
+        "name": "Industrial pipe \u0026 piping",
+        "ancestry": "5447/5652",
+        "count": 2
+      },
+      {
+        "id": 7304,
+        "name": "Pipe adapters",
+        "ancestry": "5447/5652",
+        "count": 2
+      },
+      {
+        "id": 7313,
+        "name": "Pipe couplings",
+        "ancestry": "5447/5652",
+        "count": 2
+      },
+      {
+        "id": 7351,
+        "name": "Extruded copper tubes",
+        "ancestry": "5447/5653",
+        "count": 2
+      },
+      {
+        "id": 7804,
+        "name": "Cameras",
+        "ancestry": "5450/5452/5688",
+        "count": 2
+      },
+      {
+        "id": 7834,
+        "name": "Locks \u0026 security",
+        "ancestry": "5453/5698",
+        "count": 2
+      },
+      { "id": 8977, "name": "Kitchen", "ancestry": "5459", "count": 2 },
+      {
+        "id": 9313,
+        "name": "Coating, caulking, weather water \u0026 fireproofing",
+        "ancestry": "5467/5812",
+        "count": 2
+      },
+      {
+        "id": 9732,
+        "name": "Kitchen \u0026 Bath",
+        "ancestry": null,
+        "count": 2
+      },
+      {
+        "id": 5429,
+        "name": "Plants, Seed, \u0026 Pest Control",
+        "ancestry": null,
+        "count": 1
+      },
+      {
+        "id": 5471,
+        "name": "Transportation, Storage \u0026 Mail",
+        "ancestry": null,
+        "count": 1
+      },
+      {
+        "id": 5491,
+        "name": "Floriculture \u0026 silviculture products",
+        "ancestry": "5429",
+        "count": 1
+      },
+      {
+        "id": 5493,
+        "name": "Pest control products",
+        "ancestry": "9728",
+        "count": 1
+      },
+      {
+        "id": 5553,
+        "name": "Indust. process equipment \u0026 supplies",
+        "ancestry": "5442/5438",
+        "count": 1
+      },
+      {
+        "id": 5561,
+        "name": "Metal cutting machinery \u0026 acc.",
+        "ancestry": "5442/5438",
+        "count": 1
+      },
+      {
+        "id": 5569,
+        "name": "Containers \u0026 storage",
+        "ancestry": "5439",
+        "count": 1
+      },
+      {
+        "id": 5591,
+        "name": "Automotive specialty tools",
+        "ancestry": "5442",
+        "count": 1
+      },
+      {
+        "id": 5644,
+        "name": "Lamps, light bulbs, \u0026 components",
+        "ancestry": "9731",
+        "count": 1
+      },
+      {
+        "id": 5650,
+        "name": "Industrial pumps \u0026 compressors",
+        "ancestry": "5447",
+        "count": 1
+      },
+      {
+        "id": 5679,
+        "name": "Components for IT, broadcasting \u0026 telecomm",
+        "ancestry": "5450",
+        "count": 1
+      },
+      { "id": 5682, "name": "Software", "ancestry": "5450", "count": 1 },
+      {
+        "id": 5699,
+        "name": "Personal safety \u0026 protection",
+        "ancestry": "5453",
+        "count": 1
+      },
+      {
+        "id": 5704,
+        "name": "Janitorial equipment",
+        "ancestry": "5454",
+        "count": 1
+      },
+      {
+        "id": 5767,
+        "name": "Window treatments",
+        "ancestry": "9726",
+        "count": 1
+      },
+      { "id": 5771, "name": "Wall treatments", "ancestry": "9726", "count": 1 },
+      {
+        "id": 5832,
+        "name": "Material packing \u0026 handling",
+        "ancestry": "5471",
+        "count": 1
+      },
+      {
+        "id": 5934,
+        "name": "Non flowering plants",
+        "ancestry": "5429/5491",
+        "count": 1
+      },
+      {
+        "id": 5941,
+        "name": "Pest control devices",
+        "ancestry": "9728/5493",
+        "count": 1
+      },
+      {
+        "id": 6665,
+        "name": "Assembly machines",
+        "ancestry": "5442/5438/5553",
+        "count": 1
+      },
+      {
+        "id": 6703,
+        "name": "Metal cutting tools",
+        "ancestry": "5442/5438/5561",
+        "count": 1
+      },
+      {
+        "id": 6746,
+        "name": "Tanks \u0026 cylinders \u0026 their accessories",
+        "ancestry": "5439/5569",
+        "count": 1
+      },
+      {
+        "id": 6846,
+        "name": "Power generators",
+        "ancestry": "5442",
+        "count": 1
+      },
+      {
+        "id": 6879,
+        "name": "Prying \u0026 bending tools",
+        "ancestry": "5442/5588",
+        "count": 1
+      },
+      {
+        "id": 6882,
+        "name": "Tool attachments \u0026 accessories",
+        "ancestry": "5442/5588",
+        "count": 1
+      },
+      { "id": 6895, "name": "Body tools", "ancestry": "5442/5591", "count": 1 },
+      {
+        "id": 6929,
+        "name": "Roofing materials",
+        "ancestry": "5443/5601/5597",
+        "count": 1
+      },
+      {
+        "id": 6930,
+        "name": "Roofing accessories",
+        "ancestry": "5443/5601/5597",
+        "count": 1
+      },
+      { "id": 6938, "name": "Flooring", "ancestry": "9726", "count": 1 },
+      {
+        "id": 6954,
+        "name": "Bathroom accessories",
+        "ancestry": "9732/5600",
+        "count": 1
+      },
+      {
+        "id": 6956,
+        "name": "Faucets, shower \u0026 tub fixtures",
+        "ancestry": "9732/5600",
+        "count": 1
+      },
+      {
+        "id": 7102,
+        "name": "Miscellaneous fasteners",
+        "ancestry": "5442/5611",
+        "count": 1
+      },
+      {
+        "id": 7250,
+        "name": "Lamps \u0026 lightbulbs",
+        "ancestry": "9731/5644",
+        "count": 1
+      },
+      {
+        "id": 7254,
+        "name": "Exterior lighting fixtures",
+        "ancestry": "9731/5645",
+        "count": 1
+      },
+      {
+        "id": 7255,
+        "name": "Emergency lighting \u0026 accessories",
+        "ancestry": "9731/5645",
+        "count": 1
+      },
+      {
+        "id": 7270,
+        "name": "Circuit protection",
+        "ancestry": "5446",
+        "count": 1
+      },
+      {
+        "id": 7271,
+        "name": "Hardware \u0026 supplies",
+        "ancestry": "5446",
+        "count": 1
+      },
+      {
+        "id": 7276,
+        "name": "Switches \u0026 accessories",
+        "ancestry": "5446",
+        "count": 1
+      },
+      {
+        "id": 7406,
+        "name": "Indicating \u0026 recording instruments",
+        "ancestry": "5442/5448/5655",
+        "count": 1
+      },
+      {
+        "id": 7410,
+        "name": "Pressure gauges",
+        "ancestry": "5442/5448/5655",
+        "count": 1
+      },
+      {
+        "id": 7721,
+        "name": "Sub assemblies for electronic devices",
+        "ancestry": "5450/5679",
+        "count": 1
+      },
+      {
+        "id": 7751,
+        "name": "Industry specific software",
+        "ancestry": "5450/5682",
+        "count": 1
+      },
+      {
+        "id": 7836,
+        "name": "Safety apparel",
+        "ancestry": "5453/5699",
+        "count": 1
+      },
+      {
+        "id": 7857,
+        "name": "Floor machines \u0026 accessories",
+        "ancestry": "5454/5704",
+        "count": 1
+      },
+      {
+        "id": 7861,
+        "name": "Cleaning rags, cloths \u0026 wipes",
+        "ancestry": "5454/5705",
+        "count": 1
+      },
+      {
+        "id": 8975,
+        "name": "Blinds \u0026 shades",
+        "ancestry": "9726/5767",
+        "count": 1
+      },
+      { "id": 8978, "name": "Laundry", "ancestry": "5459", "count": 1 },
+      {
+        "id": 8992,
+        "name": "Bathroom wall treatments",
+        "ancestry": "9726/5771",
+        "count": 1
+      },
+      {
+        "id": 9406,
+        "name": "Material handling services",
+        "ancestry": "5471/5832",
+        "count": 1
+      },
+      {
+        "id": 9728,
+        "name": "Lawn \u0026 Garden Equipment",
+        "ancestry": null,
+        "count": 1
+      },
+      {
+        "id": 9762,
+        "name": "Foundation Covers",
+        "ancestry": "9746",
+        "count": 1
+      },
+      {
+        "id": 9764,
+        "name": "Premium Plus",
+        "ancestry": "9746/9762",
+        "count": 1
+      }
+    ],
+    "attributes": [
+      {
+        "id": 4176,
+        "name": "hazardous",
+        "count": 0,
+        "values": [{ "count": 49, "value": "N" }]
+      },
+      {
+        "id": 4177,
+        "name": "minoritybusiness",
+        "count": 0,
+        "values": [
+          { "count": 48, "value": "N" },
+          { "count": 1, "value": "Y" }
+        ]
+      },
+      {
+        "id": 4179,
+        "name": "oversizedelivery",
+        "count": 0,
+        "values": [{ "count": 49, "value": "S" }]
+      },
+      {
+        "id": 4180,
+        "name": "readytoassemble",
+        "count": 0,
+        "values": [{ "count": 49, "value": "N" }]
+      },
+      {
+        "id": 4181,
+        "name": "recycle",
+        "count": 0,
+        "values": [{ "count": 49, "value": "N" }]
+      },
+      {
+        "id": 4182,
+        "name": "refurbished",
+        "count": 0,
+        "values": [{ "count": 49, "value": "N" }]
+      },
+      {
+        "id": 4185,
+        "name": "virtualwhse",
+        "count": 0,
+        "values": [
+          { "count": 40, "value": "Y" },
+          { "count": 9, "value": "N" }
+        ]
+      },
+      {
+        "id": 4264,
+        "name": "primarymanufacturerpartno",
+        "count": 0,
+        "values": [
+          { "count": 1, "value": "10072422" },
+          { "count": 1, "value": "10072480" },
+          { "count": 1, "value": "10072481" },
+          { "count": 1, "value": "10072485" },
+          { "count": 1, "value": "10072489" },
+          { "count": 1, "value": "41023" },
+          { "count": 1, "value": "EGO19117" },
+          { "count": 1, "value": "EGO19118" },
+          { "count": 1, "value": "EGO19119" },
+          { "count": 1, "value": "NSN5775962" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "brand name",
+        "count": 0,
+        "values": [
+          { "count": 37, "value": "Tape Logic" },
+          { "count": 5, "value": "AVOCENT" },
+          { "count": 3, "value": "Ergodyne" },
+          { "count": 1, "value": "Honeywell" },
+          { "count": 1, "value": "SKILCRAFT" },
+          { "count": 1, "value": "Tripp Lite" }
+        ]
+      },
+      {
+        "id": 4265,
+        "name": "primaryupc",
+        "count": 0,
+        "values": [
+          { "count": 1, "value": "037332172280" },
+          { "count": 1, "value": "071503284822" },
+          { "count": 1, "value": "085267771955" },
+          { "count": 1, "value": "636430032627" },
+          { "count": 1, "value": "636430034072" },
+          { "count": 1, "value": "636430034157" },
+          { "count": 1, "value": "636430034164" },
+          { "count": 1, "value": "636430034201" },
+          { "count": 1, "value": "720476191179" },
+          { "count": 1, "value": "720476191186" }
+        ]
+      }
+    ],
+    "vendors": [
+      { "count": 1151, "key": "The Home Depot: Wilmar", "id": 429 },
+      { "count": 295, "key": "Style Crest, Inc.", "id": 58 },
+      { "count": 123, "key": "Lowes For Pros", "id": 454 },
+      { "count": 50, "key": "Office Depot", "id": 3 },
+      { "count": 12, "key": "Special Request", "id": 380 },
+      { "count": 2, "key": "Blevins, Inc.", "id": 407 },
+      { "count": 1, "key": "MFS Supply LLC", "id": 275 },
+      { "count": 1, "key": "SiteOne", "id": 436 }
+    ],
+    "manufacturers": [
+      { "count": 464, "key": "Flanders" },
+      { "count": 304, "key": "Style Crest" },
+      { "count": 202, "key": "Flanders Corporation" },
+      { "count": 79, "key": "Ll Building Products" },
+      { "count": 70, "key": "National Brand Alternative" },
+      { "count": 59, "key": "Goodman" },
+      { "count": 37, "key": "Imperial" },
+      { "count": 37, "key": "Tape Logic" },
+      { "count": 31, "key": "Mrcool Llc" },
+      { "count": 26, "key": "T.a. Industries, Inc." }
+    ],
+    "availability": [
+      { "count": 1304, "key": "active" },
+      { "count": 311, "key": "call_for_pricing" },
+      { "count": 12, "key": "discontinued" },
+      { "count": 8, "key": "out_of_stock" }
+    ],
+    "corporate_catalogs": { "count": 0 },
+    "favorites": { "count": 0 },
+    "core": { "count": 593 },
+    "best_deal": { "count": 29 }
+  },
+  "products": [
+    {
+      "id": 656883,
+      "vendor_id": 429,
+      "vendor_code": "29-1494",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "PRP85S4412",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precisionaire 24 In. X 24 In. X 12 In. 85% Standard Rigid Synthetic Merv 14 Air Filter (case Of 1)",
+      "description": "MFG# PRP85S4412\nRigid Air extended surface area filters are designed for use in most commercial and industrial HVAC systems where medium and high efficiency filtration is required. These filters are especially suitable for variable air volume systems. These rigid filters are held into place by plastic pleat separators in a single header, box type frame.\nMERV 14\nEcologically advanced filtration medium made entirely from recycled materials\nRugged corrosion-resistant steel casing minimizes damage during shipping and handling\nFilters can operate with variable air speeds up to 625 FPM in temperatures up to 180 DEG F",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 899992,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_29-1494"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 51.51,
+      "full_price": 55.63,
+      "retail_price": 99.95,
+      "service_fee": 4.12,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 44,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 653327,
+      "vendor_id": 429,
+      "vendor_code": "24-88820",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "PRP95S4412H",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precisionaire 24 In. X 24 In. X 12 In. 95% Standard Rigid Synthetic Merv 15 Air Filter With Header (case Of 1)",
+      "description": "MFG# PRP95S4412H\nRigid Air extended surface area filters are designed for use in most commercial and industrial HVAC systems where medium and high efficiency filtration is required. These filters are especially suitable for variable air volume systems. These rigid filters are held into place by plastic pleat separators in a single header, box type frame.\nMERV 14\nEcologically advanced filtration medium made entirely from recycled materials\nRugged corrosion-resistant steel casing minimizes damage during shipping and handling\nFilters can operate with variable air speeds up to 625 FPM in temperatures up to 180 DEG F",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 896436,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-88820"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 68.55,
+      "full_price": 73.35,
+      "retail_price": 113.45,
+      "service_fee": 4.8,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 35,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 636684,
+      "vendor_id": 429,
+      "vendor_code": "12-5011",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "HRT507",
+      "manufacturer_name": "Lasco Fittings",
+      "name": "Lasco Fittings Hvac Molded Running Trap 3/4 In.",
+      "description": "MFG# HRT507\nHVAC RUNNING TRAP 3/4\"",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 879841,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_12-5011"
+        }
+      ],
+      "categories": [5447, 5648, 7282],
+      "sales": 0,
+      "price": 1.07,
+      "full_price": 1.16,
+      "retail_price": 2.54,
+      "service_fee": 0.09,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 55,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 639052,
+      "vendor_id": 429,
+      "vendor_code": "11-9672",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "85655.042424M11",
+      "manufacturer_name": "Flanders",
+      "name": "Flanders® Merv 11 Pre-pleat 40 62rm11 Standard-capacity Air Filter, 24x24x4 In.",
+      "description": "MFG# 85655.042424M11\nPre Pleat 62RM11 pleated panel filters enable a significant upgrade in collection efficiency over existing MERV 8 products at the same resistance levels.\nIncrease in efficiency\nEnhanced Mechanical and Electrostatic media\nMERV 11 - This item must be ordered in quantities of 6",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 882208,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_11-9672"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 10.1,
+      "full_price": 10.91,
+      "retail_price": 19.99,
+      "service_fee": 0.81,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 45,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 655747,
+      "vendor_id": 429,
+      "vendor_code": "24-90275",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "10055.01244",
+      "manufacturer_name": "Flanders",
+      "name": "Flanders® Ez Flow® Ii Merv 4 Economy Fiberglass Air Filter, 24 X36 X1 In., 12 Per Case",
+      "description": "MFG# 10055.012436\nEconomy Fiberglass EZ Flow II disposable filters are designed for protection of furnace and central air units in residential and light commercial applications. The frame is made from heavy chipboard in a one-piece design that eliminates corner separation. The filtering media is continuous filament spun glass. A resinous bonding agent provides rigidity and resistance to media compression. The EZ Flow II is made to function without a retainer, by adhering the frame directly to the media which has a light skin to make it self retaining. Sealing is accomplished with a resilient hot-melt adhesive running the full perimeter of the frame on both upstream and downstream sides. UL marking appears on the filter frame. These filters have been tested by Underwriters Laboratories Inc. and are classified as UL 900 Class 2 for flammability.\nMERV 4\nOne-piece frame",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 898858,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-90275"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 27.81,
+      "full_price": 30.59,
+      "retail_price": 47.78,
+      "service_fee": 2.78,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 36,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 655761,
+      "vendor_id": 429,
+      "vendor_code": "24-90277",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "10155.01192",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precisionaire 19 In. X 21 In. X 1 In. Ez Flow Metal Retainer Merv 4 Air Filter (case Of 12)",
+      "description": "MFG# 10155.011921\nThe Flanders Flat Panel EZ flow is a standard grade furnace filter of the same type that has been protecting furnaces and central air conditioners around the world for over 50 years. The filtering medium is continuous filament spun glass. The frame is made with one continuous piece of chipboard to guard against corner separation and is strengthened by a metal retainer. for peak equipment protection and energy efficiency, these filters should be changed monthly in periods of high use. This filter is effective against the following contaminants: household dust, as well as debris and lint.\nLasts up to 30 days\nUL class II\nProtects heating and air conditioning equipment\nSturdy chipboard frame and metal retainer contributes to filter strength\nFilters dust and pollen\nChipboard frame resists moisture",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 898869,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-90277"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 20.14,
+      "full_price": 21.75,
+      "retail_price": 65.78,
+      "service_fee": 1.61,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 67,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 655809,
+      "vendor_id": 429,
+      "vendor_code": "24-90295",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "84355.04242",
+      "manufacturer_name": "Flanders",
+      "name": "Flanders® Merv 7 Pre-pleat 40 Lpd Economy Air Filter, 24x24x4 In., 6 Per Case",
+      "description": "MFG# 84355.042424\nFlanders Economy Pre Pleat 40 extended surface pleated filters are designed to operate in most every type of installation. These filters have an average atmospheric dust spot efficiency range of 25-30% per ASHRAE Standard 52.1 test methods. Pre Pleat 40 filters offer greater efficiency and service life than disposable filters, pad and frame systems, or metal washable filters. The overall design of this product makes these filters the accepted choice in applications requiring high performance and extended service.\nThese filters are suitable for variable air volume systems. Operating face velocity ranges are from 0 to 500 fpm for 2 in. filters.\nThe Flanders v-pleat design insures that the greatest media area is exposed to the air flow to promote uniform dust loading. Competitive filters cannot maintain this rigid shape and tend to flatten out, using only a portion of the media.\nFilter frames are constructed from two pieces of diecut, moisture-resistant carrier board. Components \"telescope\" into one another and provide double-wall construction and a precision fit. The frame includes diagonal and horizontal support members bonded to the media on the air entering and leaving sides for unsurpassed frame strength. Locking corners and positive media-to-frame seal reduces the possibility of air bypass.\nThe filter media is a high-loft, reinforced, non-woven cotton/synthetic blend. It is continuously laminated to an expanded metal grid on the air leaving side to provide pleat stability throughout the life of the filters and prevent media flutter while in operation.\nThe Flanders unique v-pleat wedge pleat allows for total media usage and provides maximum air flow and dust holding capacity\nEconomy Pre Pleat 40 filters are UL 900 Class 2 listed\nMERV 7",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 898917,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-90295"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 52.74,
+      "full_price": 56.43,
+      "retail_price": 83.76,
+      "service_fee": 3.69,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 33,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 644848,
+      "vendor_id": 429,
+      "vendor_code": "12-0221",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "HH60130",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precision Aire 60 In. X 360 In. X 1 In. Permaire Merv 5 Cut To Fit Air Filter (Case Of 1)",
+      "description": "MFG# HH60130\nPermaire is a unique type of air filtration media that has evolved from a natural organic fiber media to completely new synthetic media. A single cut across the roll will produce a ready-to-install filter pad. The maze of fibers in a Permaire filter creates an electrostatic charge to catch and hold airborne contaminants.\nLonger service life\nCompletely odor free\nWashable and self-supporting\nFilter removes 20-30% of particulate matter and gaseous material from the airstream",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "RL",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 887984,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_12-0221"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 62.66,
+      "full_price": 68.93,
+      "retail_price": 111.54,
+      "service_fee": 6.27,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 38,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 644907,
+      "vendor_id": 429,
+      "vendor_code": "12-1813",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "10055.01193",
+      "manufacturer_name": "Flanders",
+      "name": "Flanders® Ez Flow® Ii Merv 4 Economy Fiberglass Air Filter, 19x27x1 In.",
+      "description": "MFG# 10055.011927\nEconomy Fiberglass EZ Flow II disposable filters are designed for protection of furnace and central air units in residential and light commercial applications. The frame is made from heavy chipboard in a one-piece design that eliminates corner separation. The filtering media is continuous filament spun glass. A resinous bonding agent provides rigidity and resistance to media compression. The EZ Flow II is made to function without a retainer, by adhering the frame directly to the media which has a light skin to make it self retaining. Sealing is accomplished with a resilient hot-melt adhesive running the full perimeter of the frame on both upstream and downstream sides. UL marking appears on the filter frame. These filters have been tested by Underwriters Laboratories Inc. and are classified as UL 900 Class 2 for flammability. MERV 4.\nOne-piece frame\nPriced Each, Sold in case quantities only - This item must be ordered in quantities of 12",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 888043,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_12-1813"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 1.6,
+      "full_price": 1.73,
+      "retail_price": 3.28,
+      "service_fee": 0.13,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 47,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 653039,
+      "vendor_id": 429,
+      "vendor_code": "24-88697",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "80055.01163",
+      "manufacturer_name": "Flanders",
+      "name": "Flanders® Merv 8 Pre Pleat™ 40 Lpd Standard Capacity Air Filter, 16 X30 X1 In., 12 Per Case",
+      "description": "MFG# 80055.011630\nFlanders Pre Pleat 40 LPD extended surface pleated filters are designed to operate in most types of installation. These filters have an average atmospheric dust spot efficiency range of 25-30% per ASHRAE Standard 52.1 test methods. These filters offer greater efficiency and service life than disposable filters, pad and frame systems, or metal washable filters. Operating face velocity ranges are from 0 to 500 fpm for 2\" filters. Pre Pleat 40 filters are UL 900 Class 2 listed. MERV 8.\nMedia Maximizing v-pleat design\nExpanded metal grid prevents media flutter while in operation\nDiagonal and horizontal support members protect frame strength\nFilter media pack is sealed to eliminate air bypass\nMade of High-loft, non-woven cotton synthetic blend\nFrame is made of moisture resistant carrier board\nPriced each, Sold in case quantities only",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 896149,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-88697"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 59.83,
+      "full_price": 62.82,
+      "retail_price": 76.15,
+      "service_fee": 2.99,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 18,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 653073,
+      "vendor_id": 429,
+      "vendor_code": "24-88704",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "80055.02142",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precision Aire 14 In. X 20 In. X 2 In. Prepleat 40 Merv 8 Air Filter (Case Of 12)",
+      "description": "MFG# 80055.021420\nThis is a rugged, industrial grade disposable pleated air filter. It features a synthetic fiber filtering medium that is laminated to an expanded metal backing. This combination is then folded into an accordion pleat arrangement to increase filtering surface. This greater filtering surface allows more effective filtration while keeping airflow resistance low. The media pack is encased and sealed within a die-cut, moisture resistant frame. Performance level is MERV 8.\nMERV rating: 8\nMoisture resistant die-cut frame\nMetal pleat backing\nUL class 2\nFilters bacteria, dust, mold and pollen\n1-sided expanded metal backing\nSealed cardboard frame resists moisture and helps eliminate air bypass",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 896182,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-88704"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 39.3,
+      "full_price": 42.44,
+      "retail_price": 55.32,
+      "service_fee": 3.14,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 23,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 653309,
+      "vendor_id": 429,
+      "vendor_code": "24-88815",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "90013.02242",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precisionaire 24 In. X 24 In. X 2 In. Prepleat 40 Merv 13 Air Filter (case Of 12)",
+      "description": "MFG# 90013.022424\nThis is a rugged, industrial grade disposable pleated air filter. It features a synthetic fiber filtering medium that is laminated to an expanded metal backing. This combination is then folded into an accordion pleat arrangement to increase filtering surface. This greater filtering surface allows more effective filtration while keeping airflow resistance low. The media pack is encased and sealed within a die-cut, moisture resistant frame. Performance level is MERV 8.\nMERV Rating: 13\nMoisture resistant die-cut frame\nMetal pleat backing\nUL class 2",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 896418,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-88815"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 179.99,
+      "full_price": 192.59,
+      "retail_price": 280.48,
+      "service_fee": 12.6,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 31,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 652773,
+      "vendor_id": 429,
+      "vendor_code": "24-88607",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "10055.01104",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precisionaire 10 In. X 36 In. X 1 In. Ez Flow Ii No-metal Merv 4 Air Filter (case Of 12)",
+      "description": "MFG# 10055.011036\nThis is a standard grade furnace filter of the same type that has been protecting furnaces and central air conditioners around the world for over 50 years. The filtering medium is continuous filament spun glass. The frame is made with one continuous piece of chipboard to guard against corner separation. For peak equipment protection and energy efficiency, these filters should be changed monthly in periods of high use. Buy a case and be set for the year.\nLasts up to 30-day\nChange filters monthly for peak energy efficiency\nLow airflow resistance\nUL class II",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 895882,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-88607"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 35.55,
+      "full_price": 38.39,
+      "retail_price": 76.87,
+      "service_fee": 2.84,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 50,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 652778,
+      "vendor_id": 429,
+      "vendor_code": "24-88608",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "10055.01121",
+      "manufacturer_name": "Flanders Precisionaire",
+      "name": "Flanders Precisionaire 12 In. X 12 In. X 1 In. Ez Flow Ii No-metal Merv 4 Air Filter (case Of 12)",
+      "description": "MFG# 10055.011212\nThis is a standard grade furnace filter of the same type that has been protecting furnaces and central air conditioners around the world for over 50 years. The filtering medium is continuous filament spun glass. The frame is made with one continuous piece of chipboard to guard against corner separation. For peak equipment protection and energy efficiency, these filters should be changed monthly in periods of high use. Buy a case and be set for the year.\nLasts up to 30-day\nChange filters monthly for peak energy efficiency\nLow airflow resistance\nUL class II",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 895887,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-88608"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 1,
+      "price": 14.49,
+      "full_price": 15.65,
+      "retail_price": 26.61,
+      "service_fee": 1.16,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 41,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 652990,
+      "vendor_id": 429,
+      "vendor_code": "24-88652",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "10055.02202",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precisionaire 20 In. X 24 In. X 2 In. Ez Flow Ii No-metal Merv 4 Air Filter (case Of 12)",
+      "description": "MFG# 10055.022024\r\nThis is a standard grade furnace filter of the same type that has been protecting furnaces and central air conditioners around the world for over 50 years. The filtering medium is continuous filament spun glass. The frame is made with one continuous piece of chipboard to guard against corner separation. for peak equipment protection and energy efficiency, these filters should be changed monthly in periods of high use. Buy a case and be set for the year.\r\nLasts up to 30 days\r\nChange filters monthly for peak energy efficiency\r\nLow airflow resistance\r\nUL class II\r\nSelf-retaining media adheres directly to the frame\r\n1-piece chipboard frame resists moisture",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters",
+        "24-88652",
+        "24-88488"
+      ],
+      "unit_of_measure": "CA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 896097,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-88652"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 30.13,
+      "full_price": 32.24,
+      "retail_price": 55.03,
+      "service_fee": 2.11,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 41,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 645450,
+      "vendor_id": 429,
+      "vendor_code": "12-0425",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "85655.021220M11",
+      "manufacturer_name": "Flanders",
+      "name": "Flanders® Merv 11 Pre-pleat 40 62rm11 Standard-capacity Air Filter, 12x20x2 In.",
+      "description": "MFG# 85655.021220M11\nPre Pleat 62RM11 pleated panel filters enable a significant upgrade in collection efficiency over existing MERV 8 products at the same resistance levels.\nIncrease in efficiency\nEnhanced Mechanical and Electrostatic media\nMERV 11 - This item must be ordered in quantities of 12",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 888584,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_12-0425"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 3.8,
+      "full_price": 4.07,
+      "retail_price": 5.74,
+      "service_fee": 0.27,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 29,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 635454,
+      "vendor_id": 429,
+      "vendor_code": "12-2037",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "50055.01203",
+      "manufacturer_name": "Flanders Corporation",
+      "name": "Flanders Precision Aire 20 In. X 25 In. X 1 In. Washabale Kkm Merv 4 Air Filter With Aluminum Frame (Case Of 6)",
+      "description": "MFG# 50055.012025\nThe KKM offers a large filtering area, high dust holding capacity, uniform loading and low resistance to air flow. It is suitable for most residential and commercial applications. These filters have a high dust holding capacity and low resistance to airflow. It is recommended that the filter be coated in a dust adhesive for optimum performance.\nHeavy-duty, steel frame construction\nWashable and reusable\nIts design allows contaminants to be trapped throughout the entire filter depth and not just the surface\nWashable for repeated use, these filters can withstand repeated cleaning before they require replacement - This item must be ordered in quantities of 6",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 6,
+      "sold_qty": 6,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 878609,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_12-2037"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 136.2,
+      "full_price": 148.46,
+      "retail_price": 204.54,
+      "service_fee": 12.26,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 27,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 635618,
+      "vendor_id": 429,
+      "vendor_code": "12-2144",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "90013.02122",
+      "manufacturer_name": "Flanders",
+      "name": "Flanders® Merv 13 Pre-pleat 40 M13 Synthetic Air Filter, 12x20x2 In.",
+      "description": "MFG# 90013.021220\nPre Pleat M13 pleated panel filters can be an ideal choice to achieve the compliance requirements of LEED. The low initial resistance of the M13 can also contribute to an overall strategy of reducing energy consumption.\n100% Non-woven synthetic media\nMetal retainers offer maximum support\nMERV 13 - This item must be ordered in quantities of 12",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 878774,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_12-2144"
+        }
+      ],
+      "categories": [5447, 5651, 7298],
+      "sales": 0,
+      "price": 7.7,
+      "full_price": 8.24,
+      "retail_price": 11.99,
+      "service_fee": 0.54,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 31,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 657816,
+      "vendor_id": 429,
+      "vendor_code": "35-62132",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "190 25X16",
+      "manufacturer_name": "T.a. Industries, Inc.",
+      "name": "Tru Aire 25 In. X 16 In. White Stamped Hinged Return Air Filter Grille",
+      "description": "MFG# 190 25X16\nThe 190 series is a Return Air Filter Grille used for sidewall or ceiling openings. Our product is constructed to ensure maximum airflow and compliment your home decor. Using our return air filter grille to outfit your ventilation system will improve your home circulation. Product Features: Durable white powder coated, high quality steel, top latch bottom hinged, accepts a 1 in. filter (not included), 1/2 in. spacing louvers.\nAllows air to flow freely between your ventilation system and a room\nMade of high quality steel\nWhite powder coat finish\nFixed hinge face",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 900925,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_35-62132"
+        }
+      ],
+      "categories": [5447, 5648, 7281],
+      "sales": 1,
+      "price": 31.03,
+      "full_price": 34.13,
+      "retail_price": 57.16,
+      "service_fee": 3.1,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 40,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 657913,
+      "vendor_id": 429,
+      "vendor_code": "35-62152",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "190RF 30X20",
+      "manufacturer_name": "T.a. Industries, Inc.",
+      "name": "Truaire 30 In. X 20 In. White Stamped Return Air Filter Grille With Removable Face",
+      "description": "MFG# 190RF 30X20\nThe 190RF series is a Return Air Filter Grille used for sidewall or ceiling openings. Our product is constructed to ensure maximum airflow and compliment your home decor. Using our return air filter grille to outfit your ventilation system will improve your home circulation. Product Features: Durable white powder coated, high quality steel, removable face allows easy access to replace air filter, accepts a 1 in. filter (not included), 1/2 in. spacing louvers.\nAllows air to flow freely between your ventilation system and a room\nMade of high quality steel\nWhite powder coat finish\nRemovable face allows easy access to replace air filter\nAccepts 1 in. filter (not included)",
+      "keywords": [
+        "furnace filter",
+        "air filter",
+        "hvac filter",
+        "hvac filters",
+        "air filters",
+        "furnace filters"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 901022,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_35-62152"
+        }
+      ],
+      "categories": [5447, 5648, 7281],
+      "sales": 0,
+      "price": 44.33,
+      "full_price": 47.88,
+      "retail_price": 84.36,
+      "service_fee": 3.55,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 43,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 651594,
+      "vendor_id": 429,
+      "vendor_code": "24-87057",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "3797000S",
+      "manufacturer_name": "Goodman",
+      "name": "Hydro Coil Tubing Assembly",
+      "description": "MFG# 3797000S\nThis is a genuine Goodman replacement part. It is designed for use in HVAC application. It is manufactured in the United States.\nBrand Compatibility: Goodman\nasm, hydro. coil tubing\nManufactured in the United States\nHytro Coil Assembly",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 894703,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-87057"
+        }
+      ],
+      "categories": [5447, 5648, 7283],
+      "sales": 0,
+      "price": 341.99,
+      "full_price": 376.19,
+      "retail_price": 626,
+      "service_fee": 34.2,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 40,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 677638,
+      "vendor_id": 429,
+      "vendor_code": "87-1403",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "PCTS0060150CZ-PK100",
+      "manufacturer_name": "National Brand Alternative",
+      "name": "Hodell Natco Industries Combo Head Sheet Metal Screws #6 X 1 1/2 In., 100 Per Pack",
+      "description": "MFG# PCTS0060150CZ-PK100\nA Thread Forming Tapping Screw with Spaced Threads and A Gimlet Point. Pan Heads Have A Gently Rounded Top and A Flat Bearing Surface. Accepts Phillips and Standard Blade Screwdrivers.\nHighly versitile\nCommon project applications: roofing, HVAC, steel stud framing, gutters, and register vents",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "PK",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 920720,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_87-1403"
+        }
+      ],
+      "categories": [5442, 5611, 7093],
+      "sales": 0,
+      "price": 4.66,
+      "full_price": 5.13,
+      "retail_price": 7.99,
+      "service_fee": 0.47,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 36,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 676380,
+      "vendor_id": 429,
+      "vendor_code": "53-1872",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "11091207SP",
+      "manufacturer_name": "Goodman",
+      "name": "Goodman Blower Motor 1/4 Hp, 3 Speed",
+      "description": "MFG# 11091207SP\nThis is a genuine GOODMAN replacement part. It is designed for use in HVAC applications. See installation guide for more details. Professional installation recommended.\nVoltage: 208/230\nCompatibility: GOODMAN equipment\nHorse power: 1/4\nMotor 1/4 HP 3SP 8PL",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 919461,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_53-1872"
+        }
+      ],
+      "categories": [5447, 5648, 7282],
+      "sales": 0,
+      "price": 173.73,
+      "full_price": 187.63,
+      "retail_price": 254.1,
+      "service_fee": 13.9,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 26,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 676484,
+      "vendor_id": 429,
+      "vendor_code": "53-1906",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "0131M00060SP",
+      "manufacturer_name": "Goodman",
+      "name": "Goodman 1 Speed Condenser Fan Motor, 208 / 230 Volts, 1/6 Hp, 840 Rpm",
+      "description": "MFG# 0131M00060SP\nThis is a genuine Goodman replacement part. It is designed for use in HVAC applications. See installation guide for more details. Professional installation recommended.\nVoltage: 208/230\nCompatibility: goodman equipment\nHorse power: 1/6\nMotor 1/6HP 1SP 8PL",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 919568,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_53-1906"
+        }
+      ],
+      "categories": [5447, 5648, 7283],
+      "sales": 0,
+      "price": 77.47,
+      "full_price": 84.44,
+      "retail_price": 114.56,
+      "service_fee": 6.97,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 26,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 659671,
+      "vendor_id": 429,
+      "vendor_code": "35-70329",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "DC6",
+      "manufacturer_name": "Ll Building Products",
+      "name": "Master Flow 6 In. Round Duct Cap",
+      "description": "MFG# DC6\nThe Master Flow 6 in. Round Duct Cap, also called a tee-cap or clean-out plug, is constructed of galvanized steel for durability. The duct cap is used to terminate or block off a rectangular duct run in HVAC systems. It can be installed with sheet metal screws (sold separately) and is suitable for most HVAC applications.\nSturdy galvanized steel construction\nUse to cap off a round or rectangular duct run\nInstall with sheet metal screws (not included)\nFits most HVAC types for universal application",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 902778,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_35-70329"
+        }
+      ],
+      "categories": [5447, 5649, 7290],
+      "sales": 0,
+      "price": 3.38,
+      "full_price": 3.72,
+      "retail_price": 6.25,
+      "service_fee": 0.34,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 40,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 650247,
+      "vendor_id": 429,
+      "vendor_code": "24-80086",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "DAMP68",
+      "manufacturer_name": "General Tools",
+      "name": "General Tools 400 Amp Ac/Dc Auto Ranging Clamp Meter With True Rms",
+      "description": "MFG# DAMP68\nSince 1910, General Tools has grown to become the recognized industry leader for specialty hand tools and instruments. The DAMP68 is a versatile, auto ranging AC/DC True RMS Clamp Meter with a maximum input of 400 Amps. It can tackle most residential and commercial electrical or HVAC system installation and troubleshooting jobs. With 11 functions and 34 ranges and a CAT III 600V safety rating, it can be used by professional contractors or do-it-yourselfers.\nMeasures AC/DC-Voltage, AC/DC current, resistance, capacitance and frequency\nAC/DC current range / accuracy: 0 to 400A / 3%\nAC/DC-Voltage range / accuracy: 0 TP 600V / 2% or better\nResistance range / accuracy: 0 to 40M / 2% or better",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 893357,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_24-80086"
+        }
+      ],
+      "categories": [5442, 5448, 5655, 7420],
+      "sales": 0,
+      "price": 76.02,
+      "full_price": 82.1,
+      "retail_price": 108.39,
+      "service_fee": 6.08,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 24,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 659713,
+      "vendor_id": 429,
+      "vendor_code": "35-70338",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "F6IFD4X300",
+      "manufacturer_name": "Ll Building Products",
+      "name": "Master Flow 4 In. X 25 Ft. Insulated Flexible Duct R6 Silver Jacket",
+      "description": "MFG# F6IFD4X300\nThe Master Flow 4 in. x 25 ft. Insulated Flexible Duct R6 Silver Jacket is used in standard Heating and Air Conditioning (HVAC) systems and some venting applications. The duct has R6 insulation which contains 33% more insulation than the standard R4.2 product. This additional insulation provides greater thermal efficiency to save energy. The product is also covered in a heavy duty, silver jacket for durability. The duct is ETL listed, meeting the UL181 standard.\nR6 fiberglass insulation for greater insulating power\nFlexible duct is convenient for use in multiple applications including heating and A/C systems and some venting\nOversized core to connect quickly and easily to standard sheet metal fitting\nGalvanized core wire for greater corrosion resistance vs. non-galvanized wire",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 902820,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_35-70338"
+        }
+      ],
+      "categories": [5447, 5649, 7290],
+      "sales": 0,
+      "price": 21.83,
+      "full_price": 23.36,
+      "retail_price": 31.54,
+      "service_fee": 1.53,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 26,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 676230,
+      "vendor_id": 429,
+      "vendor_code": "53-1828",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "41-401",
+      "manufacturer_name": "Robertshaw",
+      "name": "Robertshaw Hot Surface Ignitor, Series 41 401",
+      "description": "MFG# 41-401\nThe Robertshaw Carbide Series Hot Surface Ignitors deliver dependable ignition in heating systems. The applications include: furnaces, boilers, rooftop heaters, infrared burners, unit heaters, and water heaters. They can also be used in many other types of HVAC equipment.\nMade from high-purity recrystallized silicon carbide. (CrystarTM) which combines physical and thermal strength with stable electrical properties\nDesigned to reach ignition temperature(s) within 17 seconds\nHave 18-gauge nickel chrome lead wires embedded and metalized in place for maximum holding strength and electrical conductivity\nManufactured with lead wires enclosed in a special high-temperature fiberglass insulation providing electrical protection\nOperate at 120V AC. Some modules are rated for 208/240V input, however, the voltage to the ignitor is stepped down to 120V AC",
+      "keywords": ["best deal", "best deals", "bestdeal", "bestdeals"],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 919313,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_53-1828"
+        }
+      ],
+      "categories": [5447, 5648, 7284],
+      "sales": 0,
+      "price": 18,
+      "full_price": 19.8,
+      "retail_price": 36.16,
+      "service_fee": 1.8,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 45,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 676726,
+      "vendor_id": 429,
+      "vendor_code": "55-5065",
+      "vendor_name": "The Home Depot: Wilmar",
+      "manufacturer_code": "1900",
+      "manufacturer_name": "3m",
+      "name": "3 M 1.88 In. X 50 Yds. Value Duct Tape Silver",
+      "description": "MFG# 1900\r\nA Tape with Versatility: Originally developed for heating, ventilating and air conditioning (HVAC) applications, duct tape is used today in a variety of maintenance, repair and construction settings. Due to its unique design and low price, 3M Value Duct Tape 1900 is a good choice for light indoor duties where overall strength and durability are not crucial. The economical tape can also be used at temperatures as high as 200 F for up to 30 minutes. 3M Value Duct Tape 1900 comes with a classic, silver-colored backing. Our sturdy vinyl tape can be torn from the roll and sticks instantly, providing a wide range of convenient solutions. Built to Stick: 3M family of rugged cloth and duct tapes adheres to most surfaces for applications ranging from bundling to moisture proofing, sealing to splicing, reinforcing to hanging poly drapes. Available in a variety of colors and strengths, they are known best for their hand tear ability, high tensile strength and conformability.\r\nFor light use in MRO/construction applications\r\nRemoves cleanly for up to three months when applied indoors\r\nSticks immediately and stays on for up to one year without deterioration\r\nWater-resistant backing resists wear and light abrasion\r\nProvides a tight, moisture-resistant seal in many containment situations\r\nConforms to irregular surfaces without lifting\r\nSave time and hassle of removing sticky or dried-on residue\r\nAvailable in a variety of colors",
+      "keywords": [
+        "duct tape",
+        "best deal",
+        "best deals",
+        "bestdeal",
+        "bestdeals",
+        "ppname"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": true,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 919810,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/WILMAR_55-5065"
+        }
+      ],
+      "categories": [5447, 5648, 7282],
+      "sales": 11,
+      "price": 5.41,
+      "full_price": 5.68,
+      "retail_price": 6.95,
+      "service_fee": 0.27,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 18,
+      "corporate": false,
+      "favorite": false
+    },
+    {
+      "id": 808763,
+      "vendor_id": 454,
+      "vendor_code": "481265",
+      "vendor_name": "Lowes For Pros",
+      "manufacturer_code": "DEI-0425-6",
+      "manufacturer_name": "Imperial",
+      "name": "Imperial-4-in-x-300-in-insulated-polyester-flexible-duct",
+      "description": "Durable core constructed with non-corrosive coated wire. UL 181 class 1 air duct. Meets all R-6.0 energy codes. Black polyethylene jacket. Energy efficient R-6.0 fiberglass insulation. Durable core constructed with non-corrosive coated wire. Fiberglass reinforcing scrim. Oversized core to fit on collars and register boxes. Meets all R-6.0 energy codes. Check your local building codes. UL 181 class 1 air duct.. Oversized core to fit on collars and register boxes. Check your local building codes. Black polyethylene jacket Energy efficient R-6.0 fiberglass insulation Durable core constructed with non-corrosive coated wire Fiberglass reinforcing scrim Oversized core to fit on collars and register boxes Meets all R-6.0 energy codes Check your local building codes UL 181 class 1 air duct. Energy efficient R-6.0 fiberglass insulation",
+      "keywords": [
+        "hvac duct and fittings",
+        "heating and cooling",
+        "flexible duct"
+      ],
+      "unit_of_measure": "EA",
+      "unit_qty": 1,
+      "sold_qty": 1,
+      "core": true,
+      "best_deal": false,
+      "enabled": true,
+      "searchable": true,
+      "variant_required": false,
+      "status": "active",
+      "images": [
+        {
+          "id": 1003250,
+          "role": "primary",
+          "url": "https://res.cloudinary.com/purchasing-platform-llc/image/upload/LOWESUMH_481265"
+        }
+      ],
+      "categories": [5467, 5812, 9293],
+      "sales": 0,
+      "price": 25.26,
+      "full_price": 26.27,
+      "retail_price": 30.92,
+      "service_fee": 1.01,
+      "currency": "usd",
+      "call_for_pricing": false,
+      "savings_percent": 15,
+      "corporate": false,
+      "favorite": false
+    }
+  ]
+}
